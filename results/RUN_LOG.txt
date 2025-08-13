@@ -1,0 +1,1 @@
+﻿Run: python scripts/run_experiments.py --generations 900 --extinction_period 300 --extinction_fraction 0.5 --recolonization_rate 0.4 --n_lineages 400 --reps 3 --no_figure

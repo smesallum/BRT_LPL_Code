@@ -1,0 +1,8 @@
+parameter,value,notes
+N_lineages,500.0,Initial number of lineages
+mu,1e-08,Conceptual base mutation rate
+H_min,0.05,HGT min (per lineage per period)
+H_max,0.3,HGT max (per lineage per period)
+cryptic_min,20.0,Cryptic pool min
+cryptic_max,50.0,Cryptic pool max
+compatibility_tau,0.5,Compatibility filter (0-1)

@@ -1,0 +1,5 @@
+scenario,recovery_time_median_gens,CI95_low,CI95_high,innovation_total_median,novel_traits_index_relative
+classical,3.0,3.0,3.0,0.0,
+cryptic_only,3.0,3.0,3.0,2869.0,
+hgt_only,3.0,3.0,3.0,703.0,
+brt_full,3.0,3.0,3.0,3571.0,
