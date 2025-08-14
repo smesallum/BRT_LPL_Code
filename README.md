@@ -18,3 +18,7 @@ All simulation code is in this repository. Raw per-replicate time series and sum
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16862739.svg)](https://doi.org/10.5281/zenodo.16862739)
 
+
+## Citation
+Sameh Mesallum (2025). BRT Simulation Reproducibility (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.16862739
+
