@@ -1,5 +1,5 @@
 ﻿# BRT Simulation Reproducibility
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16862739.svg)](https://doi.org/10.5281/zenodo.16862739)
 ## Quick start (Windows PowerShell)
 1. python -m venv .venv
 2. .\.venv\Scripts\Activate.ps1
