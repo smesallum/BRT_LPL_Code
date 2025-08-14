@@ -15,3 +15,6 @@ Outputs written to:
 
 ## Data & Code Availability
 All simulation code is in this repository. Raw per-replicate time series and summary tables are produced by scripts/run_experiments.py into the results/ folder. The exact command used for the revision is recorded in results/RUN_LOG.txt with a timestamp in results/RUN_TIMESTAMP.txt.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16862739.svg)](https://doi.org/10.5281/zenodo.16862739)
+
